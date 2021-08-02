@@ -145,6 +145,7 @@ div.fadeIn{
 
 @media screen and (max-width:800px) {
   .options{
-    justify-content: space-evenly;
+    justify-content: space-around;
+    padding:auto 5px
   }
 }
