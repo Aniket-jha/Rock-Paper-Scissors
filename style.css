@@ -145,8 +145,8 @@ div.fadeIn{
 
 @media screen and (max-width:800px) {
   .options{
-    justify-content: space-around;
-    padding:auto 5px
+    justify-content: center;
+    align-item:center
   }
    .match{
     top:70%;
