@@ -148,4 +148,9 @@ div.fadeIn{
     justify-content: space-around;
     padding:auto 5px
   }
+   .match{
+    top:70%;
+    left: 50%;
+    
+}
 }
